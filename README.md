@@ -1,38 +1,65 @@
-# Sistema de Gerenciamento de Estacionamento
+# Parking Management System
 
-Este projeto foi desenvolvido como **projeto final do curso de Programação em C# realizado no SENAI**.  
-O objetivo foi aplicar na prática os conceitos fundamentais da linguagem e da **Programação Orientada a Objetos (POO)**.
+A console-based parking management system built with **C#** and **.NET**.
 
-## 📌 Sobre o projeto
+This project was developed as the final assignment for a C# programming course at **SENAI**, with the goal of applying programming fundamentals and object-oriented programming concepts in a practical scenario.
 
-O sistema simula o gerenciamento de um estacionamento, permitindo registrar, excluir, listar veículos e calcular valores de permanência.
+## About the Project
 
-A aplicação foi desenvolvida em **C# utilizando o .NET**, executada via **console**, com foco na lógica de programação e na organização do código.
+The application simulates the basic operations of a parking lot management system. It allows users to register vehicles, remove them from the parking lot, list all parked vehicles, and calculate the total amount to be paid based on the parking duration.
 
-## ⚙️ Funcionalidades
+Although it is a console application, the project was designed to reinforce important backend development concepts such as logic, data handling, class organization, and code structure.
 
-- Cadastro de veículos no estacionamento
-- Remoção de veículos
-- Listagem de veículos estacionados
-- Cálculo do valor a pagar com base no tempo de permanência
+## Features
 
-## 🧠 Conceitos aplicados
+- Vehicle registration
+- Vehicle removal
+- List of parked vehicles
+- Parking fee calculation based on time spent
 
-Durante o desenvolvimento foram utilizados conceitos importantes como:
+## Concepts Applied
 
-- Sintaxe da linguagem **C#**
-- **Programação Orientada a Objetos**
-- Criação e uso de **classes e métodos**
-- **Encapsulamento**
-- Manipulação de **listas**
-- Estruturação de um projeto em **.NET**
+This project was created to practice and improve knowledge in:
 
-## 🛠️ Tecnologias utilizadas
+- C# fundamentals
+- Object-Oriented Programming (OOP)
+- Classes and methods
+- Encapsulation
+- Collections and list manipulation
+- Conditional statements
+- Input handling
+- Console application structure with .NET
 
-- C#
-- .NET
-- Visual Studio Code
+## Technologies
 
-## 🎓 Contexto acadêmico
+- **C#**
+- **.NET**
+- **Visual Studio Code**
 
-Projeto desenvolvido como parte do curso de **Programação em C# do SENAI**, com o objetivo de consolidar os conhecimentos adquiridos durante a formação.
+## Project Structure
+
+The project follows a simple structure suitable for a beginner-level console application, focusing on readability and separation of responsibilities.
+
+## Learning Goals
+
+The main purpose of this project was to:
+
+- Apply the concepts learned during the course in a practical way
+- Strengthen logical thinking and problem-solving
+- Practice writing more organized and maintainable C# code
+- Build a complete mini project for portfolio purposes
+
+## Future Improvements
+
+Some possible next steps for this project would be:
+
+- Add persistent data storage with files or a database
+- Implement search by license plate
+- Improve validation and exception handling
+- Refactor the application into a more scalable structure
+- Create a web API or graphical interface version
+- Add automated tests
+
+## Author
+
+Developed by **Marcelo Sousa** as part of his software development studies.
